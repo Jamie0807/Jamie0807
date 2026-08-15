@@ -41,11 +41,17 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 | :---: | :---: | :---: | :---: |
 | ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![Nuxt](https://skillicons.dev/icons?i=nuxt) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) |
 
-### Tools & Runtime
+### Runtime & Package Tools
 
-| Git | GitHub Pages | Node.js | pnpm | Turborepo | Docker | VS Code |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![pnpm](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white) | ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white) | ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+| Node.js | pnpm | Turborepo | Docker |
+| :---: | :---: | :---: | :---: |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![pnpm](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white) | ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white) | ![Docker](https://skillicons.dev/icons?i=docker) |
+
+### Development Tools
+
+| Git | GitHub Pages | VS Code | Trae | Warp |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Trae](https://img.shields.io/badge/Trae-111827?style=for-the-badge) | ![Warp](https://img.shields.io/badge/Warp-01a4ff?style=for-the-badge) |
 
 ### AI Workflow Project Stack
 
