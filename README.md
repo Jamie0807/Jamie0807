@@ -14,26 +14,32 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 ### Languages
 
 | TypeScript | JavaScript | Python | HTML5 | CSS3 | Shell |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![Python](https://skillicons.dev/icons?i=py) | ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) | ![Shell](https://skillicons.dev/icons?i=bash) |
 
 ### Frontend
 
 | React | Next.js | Vue | Vite | Tailwind CSS |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | ![React](https://skillicons.dev/icons?i=react) | ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![Vue](https://skillicons.dev/icons?i=vue) | ![Vite](https://skillicons.dev/icons?i=vite) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) |
 
 ### AI, Agents & Data
 
 | AI Workflows | LLM | RAG | Agents | Ollama | Qdrant | Tableau |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![AI](https://img.shields.io/badge/AI_Workflows-0f766e?style=for-the-badge) | ![LLM](https://img.shields.io/badge/LLM-111827?style=for-the-badge) | ![RAG](https://img.shields.io/badge/RAG-2563eb?style=for-the-badge) | ![Agents](https://img.shields.io/badge/Agents-7c3aed?style=for-the-badge) | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) | ![Qdrant](https://img.shields.io/badge/Qdrant-dc244c?style=for-the-badge) | ![Tableau](https://img.shields.io/badge/Tableau-e97627?style=for-the-badge) |
+
+### Backend & Data Layer
+
+| NestJS | PostgreSQL | Prisma |
+| :---: | :---: | :---: |
+| ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) |
 
 ### Tools & Runtime
 
-| Git | GitHub Pages | Node.js | NestJS | PostgreSQL | Prisma | Docker | Electron | VS Code |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Electron](https://skillicons.dev/icons?i=electron) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+| Git | GitHub Pages | Node.js | pnpm | Turborepo | Docker | Electron | VS Code |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![pnpm](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white) | ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Electron](https://skillicons.dev/icons?i=electron) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
 ### AI Workflow Project Stack
 
