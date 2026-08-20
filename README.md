@@ -29,6 +29,12 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Electron](https://skillicons.dev/icons?i=electron) | ![Electron Forge](https://img.shields.io/badge/Electron_Forge-47848f?style=for-the-badge&logo=electron&logoColor=white) | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) | ![FFprobe](https://img.shields.io/badge/FFprobe-166534?style=for-the-badge&logo=ffmpeg&logoColor=white) | ![HEVC/H.265](https://img.shields.io/badge/HEVC%2FH.265-334155?style=for-the-badge) | ![H.264 MP4](https://img.shields.io/badge/H.264_MP4-475569?style=for-the-badge) |
 
+### Data Science & Forecasting
+
+| Pandas | NumPy | Prophet | ARIMA | scikit-learn | Statsmodels | Matplotlib | Recharts |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Prophet](https://img.shields.io/badge/Prophet-1f2937?style=for-the-badge) | ![ARIMA](https://img.shields.io/badge/ARIMA-334155?style=for-the-badge) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Statsmodels](https://img.shields.io/badge/Statsmodels-475569?style=for-the-badge) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) | ![Recharts](https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge) |
+
 ### AI, Agents & Data
 
 | AI Workflows | LLM | RAG | Agents | LangGraph | LangChain | TTS | Zod | Ollama | Qdrant | Tableau |
@@ -37,9 +43,9 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 
 ### Backend & Data Layer
 
-| NestJS | Nuxt | PostgreSQL | Prisma |
-| :---: | :---: | :---: | :---: |
-| ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![Nuxt](https://skillicons.dev/icons?i=nuxt) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) |
+| FastAPI | Uvicorn | NestJS | Nuxt | PostgreSQL | Prisma |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge) | ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![Nuxt](https://skillicons.dev/icons?i=nuxt) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) |
 
 ### Runtime & Package Tools
 
@@ -76,6 +82,17 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 | Data & schema | Zod, video project schema, agent run persistence |
 | Server placeholder | Nuxt 4, Nitro server routes |
 | Quality | Vitest, ESLint 9, Prettier, CSpell, Commitlint, Husky, Commitizen |
+
+### Forecasting UK Ageing Trends Project Stack
+
+| Layer | Technologies |
+| --- | --- |
+| Data source | UK Office for National Statistics (ONS) Excel / XLS datasets |
+| Analysis pipeline | Python 3.8+, Pandas, NumPy, Prophet, pmdarima, Statsmodels, scikit-learn, Matplotlib |
+| Forecasting & clustering | Prophet, ARIMA, KMeans, MAE, RMSE, MAPE |
+| Backend API | FastAPI, Uvicorn, local Swagger UI assets |
+| Frontend dashboard | React 18, Vite 5, React Router 6, Recharts, Tailwind CSS 3, Axios |
+| Data products | Regional 65+ population share, multi-region forecast outputs, cluster assignments |
 
 ## Current Focus
 
