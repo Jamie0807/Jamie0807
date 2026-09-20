@@ -1,6 +1,6 @@
 # Hi, I'm Jamie
 
-Frontend | Full-Stack | Data Science & Artificial Intelligence | Agent  
+Frontend | Full-Stack | Data Science & Artificial Intelligence | AI Agent  
 University of Liverpool
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jamie0807.github.io-0f766e?style=flat-square)](https://jamie0807.github.io/)
