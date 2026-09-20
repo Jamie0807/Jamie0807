@@ -31,9 +31,15 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 
 ### Data Science & Forecasting
 
-| Pandas | NumPy | Prophet | ARIMA | scikit-learn | Statsmodels | Matplotlib | Recharts |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Prophet](https://img.shields.io/badge/Prophet-1f2937?style=for-the-badge) | ![ARIMA](https://img.shields.io/badge/ARIMA-334155?style=for-the-badge) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Statsmodels](https://img.shields.io/badge/Statsmodels-475569?style=for-the-badge) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) | ![Recharts](https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge) |
+| Pandas | NumPy | SciPy | Prophet | ARIMA | scikit-learn | Statsmodels | Matplotlib | Recharts |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![SciPy](https://img.shields.io/badge/SciPy-8caAE6?style=for-the-badge&logo=scipy&logoColor=white) | ![Prophet](https://img.shields.io/badge/Prophet-1f2937?style=for-the-badge) | ![ARIMA](https://img.shields.io/badge/ARIMA-334155?style=for-the-badge) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Statsmodels](https://img.shields.io/badge/Statsmodels-475569?style=for-the-badge) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) | ![Recharts](https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge) |
+
+### Geospatial & Monitoring
+
+| Mapbox GL | deck.gl | loaders.gl | 3D Tiles | Web Workers | Disaster Feeds |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Mapbox GL](https://img.shields.io/badge/Mapbox_GL-000000?style=for-the-badge&logo=mapbox&logoColor=white) | ![deck.gl](https://img.shields.io/badge/deck.gl-0f172a?style=for-the-badge) | ![loaders.gl](https://img.shields.io/badge/loaders.gl-1e293b?style=for-the-badge) | ![3D Tiles](https://img.shields.io/badge/3D_Tiles-334155?style=for-the-badge) | ![Web Workers](https://img.shields.io/badge/Web_Workers-f59e0b?style=for-the-badge) | ![Disaster Feeds](https://img.shields.io/badge/USGS_NASA_GDACS_DisasterAware-2563eb?style=for-the-badge) |
 
 ### AI, Agents & Data
 
@@ -43,9 +49,9 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 
 ### Backend & Data Layer
 
-| FastAPI | Uvicorn | NestJS | Nuxt | PostgreSQL | Prisma |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge) | ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![Nuxt](https://skillicons.dev/icons?i=nuxt) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) |
+| Express | FastAPI | Uvicorn | NestJS | Nuxt | PostgreSQL | Prisma |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Express](https://skillicons.dev/icons?i=express) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge) | ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![Nuxt](https://skillicons.dev/icons?i=nuxt) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Prisma](https://skillicons.dev/icons?i=prisma) |
 
 ### Runtime & Package Tools
 
@@ -93,6 +99,19 @@ Technologies reflected across my current GitHub projects, from frontend systems 
 | Backend API | FastAPI, Uvicorn, local Swagger UI assets |
 | Frontend dashboard | React 18, Vite 5, React Router 6, Recharts, Tailwind CSS 3, Axios |
 | Data products | Regional 65+ population share, multi-region forecast outputs, cluster assignments |
+
+### Prometheus Global Guardian Project Stack
+
+| Layer | Technologies |
+| --- | --- |
+| Frontend client | React 19, TypeScript 5.9, Vite 7, CSS Modules, React Context + useReducer |
+| Geospatial visualization | Mapbox GL, deck.gl / loaders.gl, 3D Tiles, heatmaps, clustering, Web Workers |
+| Analytics UI | Recharts, typed presentation adapters, HTML report export, data quality states |
+| BFF and routing | Express 5, Node.js 20, OAuth-style authorization flow, REST APIs, SSE streaming |
+| Python analytics service | FastAPI, Uvicorn, Pandas, NumPy, SciPy, Statsmodels, scikit-learn |
+| AI-assisted analysis | Streaming assistant, AI workflow routing, Volcengine Ark fallback, DOMPurify sanitization |
+| Data sources | DisasterAware, USGS, NASA EONET, GDACS |
+| Quality and delivery | Vitest, React Testing Library, Playwright, ESLint 9, Prettier, Docker Compose |
 
 ## Current Focus
 
